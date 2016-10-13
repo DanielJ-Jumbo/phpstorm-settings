@@ -1,0 +1,44 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="properties" type="Ini" />
+      <mapping ext="cfg" type="Ini" />
+      <mapping ext="repo" type="Ini" />
+      <mapping pattern="tw2" type="Markdown" />
+      <mapping ext="txt" type="Markdown" />
+      <mapping pattern=".apache_stat" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_key" type="PLAIN_TEXT" />
+      <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="de_plurals" type="PLAIN_TEXT" />
+      <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
+      <mapping pattern="in" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="passwords" type="PLAIN_TEXT" />
+      <mapping ext="fish" type="PLAIN_TEXT" />
+      <mapping ext="twiki" type="PLAIN_TEXT" />
+      <mapping ext="lan" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
+      <mapping ext="handlebars" type="Twig" />
+      <mapping ext="ktr" type="XML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>

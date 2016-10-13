@@ -1,0 +1,58 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="CARET_BLINKING_PERIOD" value="5000" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="TODO.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="DONE">
+      <option name="FOREGROUND" value="4c006" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\[ \].*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\[x\].*">
+      <option name="FOREGROUND" value="4c006" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <filter name="ToDoDone">
+      <pattern index="5" />
+      <pattern index="4" />
+    </filter>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssColorPreviewInGutter" value="false" />
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>

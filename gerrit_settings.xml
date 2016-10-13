@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="" Host="http://gerrit.lan" ListAllChanges="true" AutomaticRefresh="true" RefreshTimeout="60" ReviewNotifications="true" PushToGerrit="true" ShowChangeNumberColumn="true" ShowChangeIdColumn="true" />
+</application>

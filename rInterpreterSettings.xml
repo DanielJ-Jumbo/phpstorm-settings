@@ -1,0 +1,8 @@
+<application>
+  <component name="TheRInterpreterService">
+    <option name="interpreterPath" value="/usr/local/bin/r" />
+    <option name="sourcesPath" value="/usr/local/Cellar/r/3.3.1_3/R.framework/" />
+    <option name="INTERPRETER_PATH" value="/usr/local/bin/r" />
+    <option name="INTERPRETER_SOURCES_PATH" value="/usr/local/Cellar/r/3.3.1_3/R.framework/" />
+  </component>
+</application>
