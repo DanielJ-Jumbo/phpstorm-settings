@@ -32,10 +32,10 @@
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <library>
-        <url>file://$USER_HOME$/Downloads/postgresql-9.4.1207.jre6.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
       </library>
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.3-1100.jdbc4.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
       </library>
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
@@ -47,9 +47,11 @@
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
       <option name="auto-sync" value="true" />
+      <property name="autoReconnect" value="true" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
       <property name="characterEncoding" value="utf8" />
