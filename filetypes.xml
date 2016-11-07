@@ -11,6 +11,7 @@
       <mapping pattern=".apache_stat" type="PLAIN_TEXT" />
       <mapping pattern="authorized_key" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern="jira" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="porky-authorized_keys" type="PLAIN_TEXT" />
