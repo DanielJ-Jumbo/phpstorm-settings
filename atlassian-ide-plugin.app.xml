@@ -5,9 +5,9 @@
         <option name="anonymousEnhancedFeedbackEnabled" value="true" />
         <option name="statsCountersMap">
           <map>
-            <entry key="a" value="2" />
+            <entry key="a" value="3" />
             <entry key="b" value="0" />
-            <entry key="i" value="4" />
+            <entry key="i" value="6" />
             <entry key="r" value="0" />
           </map>
         </option>
