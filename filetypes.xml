@@ -7,21 +7,24 @@
       <mapping ext="repo" type="Ini" />
       <mapping pattern="tw2" type="Markdown" />
       <mapping ext="txt" type="Markdown" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern=".apache_stat" type="PLAIN_TEXT" />
       <mapping pattern="authorized_key" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="de_plurals" type="PLAIN_TEXT" />
+      <mapping pattern="jira" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern="in" type="PLAIN_TEXT" />
+      <mapping pattern="porky-authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="de_plurals" type="PLAIN_TEXT" />
+      <mapping pattern="in" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="source" type="PLAIN_TEXT" />
       <mapping ext="passwords" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="twiki" type="PLAIN_TEXT" />
