@@ -1,0 +1,36 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ThePlugin.ActiveToolbar" is_group="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.goto" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Tasks toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.show.task.description" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Tasks toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.close" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Tasks toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Tasks toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="tasks.close" icon="$USER_HOME$/Pictures/Icons/close_white_16.png" />
+    <action id="tasks.show.task.description" icon="$USER_HOME$/Pictures/Icons/description_16px.png" />
+    <action id="tasks.goto" icon="$USER_HOME$/Pictures/Icons/add_white_16.png" />
+  </component>
+</application>
