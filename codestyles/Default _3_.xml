@@ -36,6 +36,7 @@
     </formatting-settings>
   </DBN-SQL>
   <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_THEN" value="false" />
     <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="Blade">
