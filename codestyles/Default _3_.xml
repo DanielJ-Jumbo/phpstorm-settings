@@ -35,6 +35,10 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_THEN" value="false" />
+    <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
