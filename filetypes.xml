@@ -17,6 +17,7 @@
       <mapping pattern="jira" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
+      <mapping pattern="ssh-tunnel@de-db1" type="PLAIN_TEXT" />
       <mapping pattern="in" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
