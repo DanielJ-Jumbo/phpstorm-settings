@@ -3,21 +3,22 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="properties" type="Ini" />
+      <mapping ext="service" type="Ini" />
       <mapping ext="cfg" type="Ini" />
       <mapping ext="repo" type="Ini" />
       <mapping pattern="tw2" type="Markdown" />
       <mapping ext="txt" type="Markdown" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="porky-authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern=".apache_stat" type="PLAIN_TEXT" />
       <mapping pattern="authorized_key" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern="de_plurals" type="PLAIN_TEXT" />
       <mapping pattern="jira" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern="porky-authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="de_plurals" type="PLAIN_TEXT" />
       <mapping pattern="in" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
