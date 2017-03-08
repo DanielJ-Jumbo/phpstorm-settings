@@ -24,6 +24,7 @@
       <mask>nginx</mask>
       <mask>nginx*</mask>
       <mask>*.sql</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
